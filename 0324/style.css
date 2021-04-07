@@ -1,0 +1,20 @@
+#intro .jumbotron{
+    height: 70vh;
+}
+
+#intro h1{
+
+    font-size: 52px;
+    font-weight: 800;
+    line-height: 1.5;
+}
+
+#intro .container{
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 10%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    max-width: 1000px;
+}
